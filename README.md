@@ -38,3 +38,4 @@ List of different framework implementations on Octane version of 3d cube (or) 3d
 ## Other links
 
 - [Vue JS](https://3d-sphere-vue.nklayman.now.sh/)
+- [Seb's thread about React perf improvements](https://twitter.com/sebmarkbage/status/1201251406604197888)
