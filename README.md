@@ -2,6 +2,8 @@
 
 List of different framework implementations on Octane version of 3d cube (or) 3d Sphere
 
+![3dsphere](https://user-images.githubusercontent.com/1515160/69947918-b0534d80-1514-11ea-973f-30c698525ac6.gif)
+
 ## Implementations
 
 - [React] https://github.com/react-spring/react-three-fiber/blob/v4/examples/demos/dev/Benchmark.js
