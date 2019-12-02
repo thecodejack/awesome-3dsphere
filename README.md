@@ -2,7 +2,7 @@
 
 List of different framework implementations on Octane version of 3d cube (or) 3d Sphere
 
-![3dsphere](https://user-images.githubusercontent.com/1515160/69947918-b0534d80-1514-11ea-973f-30c698525ac6.gif)
+![3dsphere1](https://user-images.githubusercontent.com/1515160/69948211-38d1ee00-1515-11ea-9e3e-26dd9d1d9a7a.gif)
 
 ## Implementations
 
