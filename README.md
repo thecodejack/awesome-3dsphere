@@ -16,6 +16,8 @@ List of different framework implementations on Octane version of 3d cube (or) 3d
   - [Demo](https://3d-sphere-vue.nklayman.now.sh/vue3.html)
 - [Ember](https://github.com/NullVoxPopuli/ember-three-boxes-demo)
   - [Demo](https://nullvoxpopuli.github.io/ember-three-boxes-demo/)
+- [Stencil](https://github.com/adamdbradley/stencil-gl-boxes)
+  - [Demo](https://stencil-gl-boxes.now.sh/)
 
 ## Discussions
 
@@ -34,6 +36,10 @@ List of different framework implementations on Octane version of 3d cube (or) 3d
 ### Ember
 
 - https://twitter.com/nullvoxpopuli/status/1201141372830539776
+
+### Stencil
+
+- https://twitter.com/adamdbradley/status/1201554970362994691
 
 ## Other links
 
